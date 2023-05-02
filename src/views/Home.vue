@@ -83,7 +83,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 h3 {
   font-style: italic;
 }
