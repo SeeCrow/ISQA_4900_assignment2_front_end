@@ -27,12 +27,6 @@
       <div class="col-12 col-sm-10 col-md-8">
         <div class="card">
           <div class="row g-0">
-            <div class="col-md-6 d-none d-xl-block d-lg-block d-md-block">
-              <img :src="require('../../../movie-fe/src/assets/customer.jpg')" class="img-fluid" alt="Responsive image"/>
-            </div>
-           <div class="col-md-6 d-md-none">
-              <img :src="require('../../../movie-fe/src/assets/customer.jpg')" class="img-fluid" alt="Responsive image" style="height: 30rem"/>
-            </div>
             <div class="col-md-6">
               <div class="card-body">
                 <h5 class="card-title">Movies</h5>
