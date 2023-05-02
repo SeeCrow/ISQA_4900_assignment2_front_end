@@ -38,7 +38,7 @@
                 <h5 class="card-title">Movies</h5>
                 <p class="card-text">
                   Click below to get descriptions and ratings of movies you
-                  are intersting in watching.
+                  are interested in watching.
                 </p>
                   <a @click="viewMovies" class="btn btn-primary">View Details</a>
               </div>
