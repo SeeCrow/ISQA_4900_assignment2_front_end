@@ -28,10 +28,10 @@
         <div class="card">
           <div class="row g-0">
             <div class="col-md-6 d-none d-xl-block d-lg-block d-md-block">
-              <img :src="require('../../../../../ISQA_4900_assignment2_part_1/movie_fe/movie-fe/src/assets/customer.jpg')" class="img-fluid" alt="Responsive image"/>
+              <img :src="require('../../../movie-fe/src/assets/customer.jpg')" class="img-fluid" alt="Responsive image"/>
             </div>
            <div class="col-md-6 d-md-none">
-              <img :src="require('../../../../../ISQA_4900_assignment2_part_1/movie_fe/movie-fe/src/assets/customer.jpg')" class="img-fluid" alt="Responsive image" style="height: 30rem"/>
+              <img :src="require('../../../movie-fe/src/assets/customer.jpg')" class="img-fluid" alt="Responsive image" style="height: 30rem"/>
             </div>
             <div class="col-md-6">
               <div class="card-body">
